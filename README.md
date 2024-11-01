@@ -7,3 +7,5 @@ MATKUL  : Pemrograman WEB
 ```
 ## Gambar Menu Form
 ![Image](ss1/ss1.png)
+## Gambar Menu Data Table
+![Image](ss1/ss2.png)
