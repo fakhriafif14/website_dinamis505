@@ -76,4 +76,4 @@ MATKUL  : Pemrograman WEB
 dan seterusnya...
 ```
 
-# Selesai & Terima Kasih
+# Selesai 
