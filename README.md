@@ -17,6 +17,7 @@ MATKUL  : Pemrograman WEB
 ![Image](ss/ss9.png)
 ## Form
 ![Image](ss/ss10.png)
+## form.php
 ![Image](ss/ss2.png)
 ## index.php
 ![Image](ss/ss3.png)
